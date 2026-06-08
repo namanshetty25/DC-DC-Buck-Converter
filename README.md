@@ -70,6 +70,20 @@ The hardware prototype was constructed on a soldered perf-board to ensure reliab
 * Robust power MOSFET and ultra-fast recovery diode to minimize switching losses.
 * Optimized LC filter network to maintain low voltage and current ripple.
 
+<table>
+<tr>
+<td align="center">
+<img src="soldered_buck_converter.png" width="400"><br>
+<b>Soldered Buck Converter</b>
+</td>
+
+<td align="center">
+<img src="gate_driver.png" width="400"><br>
+<b>Gate Driver Circuit</b>
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📊 Waveform Analysis
